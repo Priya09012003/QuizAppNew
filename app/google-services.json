@@ -1,0 +1,87 @@
+{
+  "project_info": {
+    "project_number": "933683278938",
+    "firebase_url": "https://my-quiz-app-320ee-default-rtdb.firebaseio.com",
+    "project_id": "my-quiz-app-320ee",
+    "storage_bucket": "my-quiz-app-320ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933683278938:android:5a4395f927619ed3db9463",
+        "android_client_info": {
+          "package_name": "com.example.my_quiz_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL7fjOmULCsKakj6lx3gia1sDjuibfSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933683278938:android:55e674389784bc2adb9463",
+        "android_client_info": {
+          "package_name": "com.example.quizapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL7fjOmULCsKakj6lx3gia1sDjuibfSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933683278938:android:decdc2f582773b7cdb9463",
+        "android_client_info": {
+          "package_name": "com.example.quizappnew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL7fjOmULCsKakj6lx3gia1sDjuibfSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:933683278938:android:c31f184a27cf85dedb9463",
+        "android_client_info": {
+          "package_name": "com.example.quizesapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBOL7fjOmULCsKakj6lx3gia1sDjuibfSI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
